@@ -1,0 +1,9 @@
+package Cards;
+
+public enum Cards {
+    CLUBS,
+    DIAMONDS,
+    HEARTS,
+    SPADES,
+
+}
